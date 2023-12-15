@@ -12,6 +12,6 @@ Enhance your productivity by leveraging advanced clipboard functionalities.
 * 📋 **Extended Clipboard:** Retain copied items until you clear your browser data – no more repeated copying
 <br>
 
-**[🔭 Explore the Project Here](https://a.picoapps.xyz/administration-deal)**
+**[🔗 Explore the Project Here](https://a.picoapps.xyz/administration-deal)**
 
-**[🖥️ Visit Edge Browser Extension](https://microsoftedge.microsoft.com/addons/detail/localstorage-clipboard/pcahepbhdanoejneffecomjnhpmadgcb)**
+**[🔗 Visit Edge Browser Extension](https://microsoftedge.microsoft.com/addons/detail/localstorage-clipboard/pcahepbhdanoejneffecomjnhpmadgcb)**
