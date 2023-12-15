@@ -13,3 +13,5 @@ Enhance your productivity by leveraging advanced clipboard functionalities.
 <br>
 
 **[🔗 Explore the Project Here](https://a.picoapps.xyz/administration-deal)**
+
+**[🌐 NOW available as Edge Browser Extension](https://microsoftedge.microsoft.com/addons/detail/localstorage-clipboard/pcahepbhdanoejneffecomjnhpmadgcb)**
