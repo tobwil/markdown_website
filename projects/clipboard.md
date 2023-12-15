@@ -7,9 +7,9 @@ Enhance your productivity by leveraging advanced clipboard functionalities.
 
 ## Key Features
 
-* **Instant Paste:** Use CTRL+V to quickly multiply your clipboard contents
-* **Local Storage Privacy:** All data remains on your device, ensuring complete privacy
-* **Extended Clipboard:** Retain copied items until you clear your browser data – no more repeated copying
+* ⚡ **Instant Paste:** Use CTRL+V to quickly multiply your clipboard contents
+* 🔒 **Local Storage Privacy:** All data remains on your device, ensuring complete privacy
+* 📋 **Extended Clipboard:** Retain copied items until you clear your browser data – no more repeated copying
 <br>
 
 **[🔗 Explore the Project Here](https://a.picoapps.xyz/administration-deal)**
