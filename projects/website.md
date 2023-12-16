@@ -2,7 +2,7 @@
 Showcase your projects and skills with a sleek, dynamic portfolio
 <br>
 
-<img src="https://github.com/tobwil/picoapps_content/assets/main/12345678/portfolio_preview.png" width="200" height="200">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/906b8086-02a1-489f-b8e8-16f12bc270f7" height="200">
 <br>
 
 ## Key Features
