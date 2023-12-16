@@ -80,7 +80,7 @@ git add .
 git commit -m "Update content"
 git push origin master
 ```
-📋 **Project Markdown Layout**
+📋 ***Project Markdown Layout***
 ```
 # Title
 Subtitle
@@ -98,13 +98,13 @@ Subtitle
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Discover My Project - Click Now!](PROJECT URL)**
 ```
-📋 **Listening Markdown Layout**
+📋 ***Listening Markdown Layout***
 ```
 <a href="SPOTIFY URL">
     <img src="IMAGE URL" width="200" height="200">
 </a>
 ```
-📋 **Post Markdown Layout**
+📋 ***Post Markdown Layout***
 ```
 # Title (price)
 Subtitle
