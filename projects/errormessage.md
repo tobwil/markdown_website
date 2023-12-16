@@ -2,7 +2,7 @@
 Help your parents solve their IT problems effortlessly
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/f0b3f280-0c06-4cb7-9d85-4f261ea568ab" height="200">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/f0b3f280-0c06-4cb7-9d85-4f261ea568ab" height="50">
 <br>
 
 ## Key Features
