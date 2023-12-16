@@ -11,9 +11,9 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
    - [Step 2: Customize the Website](#step-2-customize-the-website)
    - [Step 3: Add Content](#step-3-add-content)
    - [Step 4: Deploy the Website](#step-4-deploy-the-website)
-   - [Project Markdown Layout](#project-markdown-layout)
-   - [Listening Markdown Layout](#listening-markdown-layout)
-   - [Post Markdown Layout](#post-markdown-layout)
+6. [Project Markdown Layout](#project-markdown-layout)
+7. [Listening Markdown Layout](#listening-markdown-layout)
+8. [Post Markdown Layout](#post-markdown-layout)
 
 # Features
 * **Dynamic Content Fetching**: The website dynamically fetches and displays content from GitHub repositories, showcasing projects, posts, and listenings, keeping the content fresh and updated
