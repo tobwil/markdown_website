@@ -1,4 +1,4 @@
-# Error Message Expert
+# Error Message Expert (AI integrated)
 Help your parents solve their IT problems effortlessly
 <br>
 
