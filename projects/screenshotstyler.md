@@ -14,5 +14,6 @@ Transform your screenshots into visually appealing designs effortlessly
 * ✍️ **Adding Text**: Easily add and style text for annotations or creative flair
 * 🔄 **Rotate & Resize**: Simple tools to rotate and resize objects for perfect placement
 <br>
+---
 
 **[🚀 Discover My Project - Click Now!](https://screenshotstyler.com)**
