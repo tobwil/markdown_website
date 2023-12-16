@@ -2,7 +2,7 @@
 As a dashboard enthusiast 🤓, here's a glimpse of what you can create using progressbar.js
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/620e1ea9-915d-4ffd-8547-e20714030fdd" height="50">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/620e1ea9-915d-4ffd-8547-e20714030fdd" height="100">
 <br>
 
 ## Dashboard Highlights
