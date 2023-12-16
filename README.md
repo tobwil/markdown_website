@@ -19,7 +19,7 @@ Subtitle
 # Listening Markdown Layout
 ```
 <a href="SPOTIFY URL">
-    <img src="IMAGE URL" width="200" height="200" alt="ALT TEXT">
+    <img src="IMAGE URL" width="200" height="200">
 </a>
 ```
 # Post Markdown Layout
