@@ -2,7 +2,7 @@
 Enhance your productivity by leveraging advanced clipboard functionalities.
 <br>
 
-<img src="https://github.com/tobwil/markdown_content/assets/72387477/84577c0f-ef78-4280-97a5-03c4630eab5c" height="50">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/b96a1e39-bb98-4c30-bc96-de02d51e3149" height="200">
 <br>
 
 ## Key Features
