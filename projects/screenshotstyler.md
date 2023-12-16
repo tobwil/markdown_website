@@ -2,7 +2,7 @@
 Transform your screenshots into visually appealing designs effortlessly
 <br>
 
-<img src="https://github.com/tobwil/markdown_content/assets/72387477/7af5acb3-bf89-4f40-b41b-0afe6312b18d" width="200" height="200">
+<img src="https://github.com/tobwil/markdown_content/assets/72387477/7af5acb3-bf89-4f40-b41b-0afe6312b18d" height="200">
 <br>
 
 ## Key Features
