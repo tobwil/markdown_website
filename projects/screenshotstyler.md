@@ -15,4 +15,4 @@ Transform your screenshots into visually appealing designs effortlessly
 * 🔄 **Rotate & Resize**: Simple tools to rotate and resize objects for perfect placement
 <br>
 
-**[🔗 Explore the Project Here](https://screenshotstyler.com)**
+**[🚀 Discover My Project - Click Now!](https://screenshotstyler.com)**
