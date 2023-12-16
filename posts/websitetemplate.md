@@ -1,4 +1,4 @@
-# Website Template (Open Source)
+# 🔥 Website Template (Open Source)
 A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 <br>
 
