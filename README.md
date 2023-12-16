@@ -1,4 +1,4 @@
-# Personal Website via GitHub
+# Personal Website via GitHub Markdowns
 A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
 ### ☀️ Day Mode | Landing Page and Content via GitHub
