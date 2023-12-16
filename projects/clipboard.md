@@ -13,9 +13,6 @@ Enhance your productivity by leveraging advanced clipboard functionalities.
 <br>
 ⬇️⬇️⬇️
 
-**[🚀 Discover My Project - Click Now!](https://a.picoapps.xyz/administration-deal)**
+<i class="fa-solid fa-up-right-from-square"></i> **[ Discover My Project - Click Now!](https://a.picoapps.xyz/administration-deal)**
 
-**[🔗 Visit Edge Browser Extension](https://microsoftedge.microsoft.com/addons/detail/localstorage-clipboard/pcahepbhdanoejneffecomjnhpmadgcb)**
-
-<i class="fa-solid fa-up-right-from-square"></i>
-<h3 class="text-2xl font-semibold mb-4"><i class="fa-solid fa-up-right-from-square"></i></i> Test</h3>
+**<i class="fa-solid fa-up-right-from-square"></i>[ Visit Edge Browser Extension](https://microsoftedge.microsoft.com/addons/detail/localstorage-clipboard/pcahepbhdanoejneffecomjnhpmadgcb)**
