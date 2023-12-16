@@ -3,7 +3,7 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
 ## Table of Contents
 1. [Features](#features)
-2. [Screenshots - Day Mode](#screenshots--day-mode)
+2. [Screenshots - Day Mode](#screenshots-day-mode)
 3. [Screenshots - Night Mode](#screenshots--night-mode)
 4. [Technologies and Libraries](#technologies-and-libraries)
 5. [How to Use?](#how-to-use)
@@ -28,7 +28,7 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 * **Content Shuffling and Expansion**: Content is randomly shuffled for variety, and a 'Show More' button is provided for expanded viewing, keeping the initial page view neat while allowing deeper exploration.
 
 
-# SCREENSHOTS | ☀️ Day Mode
+# SCREENSHOTS ☀️ Day Mode
 ![day](https://github.com/tobwil/markdown_website/assets/72387477/906b8086-02a1-489f-b8e8-16f12bc270f7)
 
 ![contentday](https://github.com/tobwil/markdown_website/assets/72387477/05bc9f86-bd80-48fb-939c-120d14ed046b)
