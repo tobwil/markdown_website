@@ -1,4 +1,4 @@
-# Screenshotstyler (AI integrated)
+# Screenshotstyler (AI Inside)
 Transform your screenshots into visually appealing designs effortlessly
 <br>
 
