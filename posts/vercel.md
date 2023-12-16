@@ -1,4 +1,4 @@
-# Vercel v0 
+# Vercel v0 (FREE)
 Generate UI in seconds with text or images
 <br>
 
