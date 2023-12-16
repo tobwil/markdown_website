@@ -1,4 +1,4 @@
-# PicoApps
+# PicoApps (Paid)
 Build Web Apps by Simply Describing What You Want
 <br>
 
