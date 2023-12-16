@@ -70,6 +70,11 @@ git commit -m "Update content"
 git push origin master
 ```
 
+## Step 4: Deploy the Website
+**GitHub Pages**: You can use GitHub Pages to host your website directly from your GitHub repository. Go to the repository settings on GitHub, find the "Pages" section, and select the branch you want to deploy.
+
+**Custom Domain (Optional)**: If you have a custom domain, you can configure it in the GitHub Pages settings.
+
 # Project Markdown Layout
 ```
 # Title
