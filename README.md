@@ -14,7 +14,7 @@ Subtitle
 * Feature 3
 <br>
 
-**[<i class="fa-solid fa-up-right-from-square"></i> Explore the Project Here](PROJECT URL)**
+**[<i class="fa-solid fa-up-right-from-square"></i> Discover My Project - Click Now!](PROJECT URL)**
 ```
 # Listening Markdown Layout
 ```
