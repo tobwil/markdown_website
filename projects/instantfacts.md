@@ -1,4 +1,4 @@
-# Instant Facts (AI integrated)
+# Instant Facts (AI Inside)
 Quickly extract information from snapshots into concise summaries
 <br>
 
