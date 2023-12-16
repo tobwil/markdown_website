@@ -1,4 +1,4 @@
-# Summarize and Chat with any CV (AI Inside)
+# Recruiting Helper (AI Inside)
 Transform CVs into concise summaries and interact with them through a chat interface!
 <br>
 
