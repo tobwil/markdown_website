@@ -42,7 +42,7 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 ```
 bash
 Copy code
-git clone [URL-of-the-original-repository]
+git clone https://github.com/tobwil/markdown_website
 ```
 **Create Your Own Repository**: If you forked the repository, you already have a copy on your GitHub account. If you cloned it, create a new repository on GitHub and push the cloned content to your new repository.
 
