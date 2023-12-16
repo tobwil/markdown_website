@@ -3,8 +3,8 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
 ## Table of Contents
 1. [Features](#features)
-2. [Screenshots - Day Mode](#screenshots-day-mode)
-3. [Screenshots - Night Mode](#screenshots--night-mode)
+2. [Screenshots ☀️ Day Mode](#screenshots-️-day-mode)
+3. [Screenshots 🌗 Night Mode](#screenshots--night-mode)
 4. [Technologies and Libraries](#technologies-and-libraries)
 5. [How to Use?](#how-to-use)
    - [Step 1: Clone the Repository](#step-1-clone-the-repository)
@@ -35,7 +35,7 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
 ---
 
-# SCREENSHOTS | 🌗 Night Mode
+# SCREENSHOTS 🌗 Night Mode
 ![night](https://github.com/tobwil/markdown_website/assets/72387477/2530b4d9-6d79-4127-9aa9-d057144c7b24)
 
 ![contentnight](https://github.com/tobwil/markdown_website/assets/72387477/756b6e58-6bba-4c71-8bdb-727cfae6a64d)
