@@ -2,7 +2,7 @@
 Transform CVs into concise summaries and interact with them through a chat interface!
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/8309b679-35cb-4b48-b58a-b4204b3a3dd0" height="200">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/8309b679-35cb-4b48-b58a-b4204b3a3dd0" width="100" height="100">
 <br>
 
 ## Tool Highlights
