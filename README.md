@@ -16,3 +16,17 @@ Subtitle
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Explore the Project Here](PROJECT URL)**
 ```
+# Listening Markdown Layout
+```
+<a href="SPOTIFY URL">
+    <img src="IMAGE URL" width="200" height="200" alt="ALT TEXT">
+</a>
+```
+# Post Markdown Layout
+```
+# Title (price)
+Subtitle
+<br>
+
+[🧳 Check it out](LINK URL)
+```
