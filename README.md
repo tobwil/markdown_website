@@ -1,6 +1,20 @@
 # Personal Website via GitHub Markdowns
 A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
+## Table of Contents
+1. [Features](#features)
+2. [Screenshots - Day Mode](#screenshots--day-mode)
+3. [Screenshots - Night Mode](#screenshots--night-mode)
+4. [Technologies and Libraries](#technologies-and-libraries)
+5. [How to Use?](#how-to-use)
+   - [Step 1: Clone the Repository](#step-1-clone-the-repository)
+   - [Step 2: Customize the Website](#step-2-customize-the-website)
+   - [Step 3: Add Content](#step-3-add-content)
+   - [Step 4: Deploy the Website](#step-4-deploy-the-website)
+6. [Project Markdown Layout](#project-markdown-layout)
+7. [Listening Markdown Layout](#listening-markdown-layout)
+8. [Post Markdown Layout](#post-markdown-layout)
+
 # Features
 * **Dynamic Content Fetching**: The website dynamically fetches and displays content from GitHub repositories, showcasing projects, posts, and listenings, keeping the content fresh and updated
 * **Responsive Design**: Tailored for various device sizes and screen resolutions using Tailwind CSS, ensuring a seamless user experience across desktops, tablets, and mobile devices
