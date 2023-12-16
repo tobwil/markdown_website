@@ -11,6 +11,7 @@ Enhance your productivity by leveraging advanced clipboard functionalities.
 * 🔒 **Local Storage Privacy:** All data remains on your device, ensuring complete privacy
 * 📋 **Extended Clipboard:** Retain copied items until you clear your browser data – no more repeated copying
 <br>
+---
 
 **[🚀 Discover My Project - Click Now!](https://a.picoapps.xyz/administration-deal)**
 
