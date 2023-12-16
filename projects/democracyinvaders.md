@@ -2,7 +2,7 @@
 Enjoy a classic arcade-style space shooter with a modern twist!
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/6c98c927-2e68-4c0a-b44a-549eb29e7305" height="50">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/6c98c927-2e68-4c0a-b44a-549eb29e7305" height="100">
 <br>
 
 ## Game Features
