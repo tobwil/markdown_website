@@ -11,9 +11,6 @@ A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
    - [Step 2: Customize the Website](#step-2-customize-the-website)
    - [Step 3: Add Content](#step-3-add-content)
    - [Step 4: Deploy the Website](#step-4-deploy-the-website)
-6. [Project Markdown Layout](#project-markdown-layout)
-7. [Listening Markdown Layout](#listening-markdown-layout)
-8. [Post Markdown Layout](#post-markdown-layout)
 
 # Features
 * **Dynamic Content Fetching**: The website dynamically fetches and displays content from GitHub repositories, showcasing projects, posts, and listenings, keeping the content fresh and updated
@@ -83,13 +80,7 @@ git add .
 git commit -m "Update content"
 git push origin master
 ```
-
-## Step 4: Deploy the Website
-**GitHub Pages**: You can use GitHub Pages to host your website directly from your GitHub repository. Go to the repository settings on GitHub, find the "Pages" section, and select the branch you want to deploy.
-
-**Custom Domain (Optional)**: If you have a custom domain, you can configure it in the GitHub Pages settings.
-
-# Project Markdown Layout
+**Project Markdown Layout**
 ```
 # Title
 Subtitle
@@ -107,13 +98,13 @@ Subtitle
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Discover My Project - Click Now!](PROJECT URL)**
 ```
-# Listening Markdown Layout
+**Listening Markdown Layout**
 ```
 <a href="SPOTIFY URL">
     <img src="IMAGE URL" width="200" height="200">
 </a>
 ```
-# Post Markdown Layout
+**Post Markdown Layout**
 ```
 # Title (price)
 Subtitle
@@ -121,3 +112,7 @@ Subtitle
 
 [🧳 Check it out](LINK URL)
 ```
+## Step 4: Deploy the Website
+**GitHub Pages**: You can use GitHub Pages to host your website directly from your GitHub repository. Go to the repository settings on GitHub, find the "Pages" section, and select the branch you want to deploy.
+
+**Custom Domain (Optional)**: If you have a custom domain, you can configure it in the GitHub Pages settings.
