@@ -2,7 +2,7 @@
 Quickly extract information from snapshots into concise summaries
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/23c6d7e5-2600-45d1-a4ab-00ee1eda479a" height="200">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/23c6d7e5-2600-45d1-a4ab-00ee1eda479a" height="50">
 <br>
 
 ## Key Features
