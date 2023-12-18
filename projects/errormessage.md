@@ -7,9 +7,9 @@ Help your parents solve their IT problems effortlessly
 
 ## Top 3 Features
 
-* 🤖 **Automatic Error Analysis**
-* 💻 **User-Friendly Interface**
-* 🔄 **Real-Time Solutions**
+* 🤖 Automatic Error Analysis
+* 💻 User-Friendly Interface
+* 🔄 Real-Time Solutions
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/mention-whether)**
