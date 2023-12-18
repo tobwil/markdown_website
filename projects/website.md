@@ -1,18 +1,15 @@
 # 🔥 Personal Website
-Showcase your projects and skills with a sleek, dynamic portfolio
+Showcase your projects and skills with a sleek, dynamic portfolio powered by your GitHub Repo
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/906b8086-02a1-489f-b8e8-16f12bc270f7" height="100">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/94cb270b-b150-4b9e-845d-2a08c39c8ac8" height="200">
 <br>
 
-## Key Features
+## Top 3 Features
 
-* 🚀 **Dynamic Content Loading:** Your portfolio automatically updates with content from your GitHub repositories
-* 📱 **Responsive Design:** Enjoy a seamless experience on any device, thanks to Tailwind CSS integration
-* 🌓 **Day/Night Mode:** Choose between light and dark themes for comfortable browsing at any time of day
-* 🎨 **Customizable Interface:** Tailwind CSS and JavaScript allow for easy customization to suit your personal brand
-* 📊 **Interactive Elements:** Engage visitors with interactive elements like particle backgrounds and elevator.js for fun page navigation
-* 🔗 **Social Media Integration:** Connect with your audience through integrated links to your social media profiles
+* 🚀 **Dynamic Content Loading**
+* 📱 **Responsive Design**
+* 🌓 **Day/Night Mode**
 <br>
 
 **[<i class="fab fa-github"></i> View GitHub Repository](https://github.com/tobwil/markdown_website)**
