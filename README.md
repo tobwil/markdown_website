@@ -2,6 +2,7 @@
 A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
 **[🔗 Remixable DEMO @ PicoApps](https://a.picoapps.xyz/window-population)**
+
 **[🔗 LIVE @ wilhelm.digital](https://wilhelm.digital/)**
 
 ## Table of Contents
