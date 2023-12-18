@@ -88,7 +88,7 @@ git push origin master
 Subtitle
 <br>
 
-<img src="IMAGE URL" width="200" height="200">
+<img src="IMAGE URL" height="200">
 <br>
 
 ## Key Features
@@ -98,7 +98,7 @@ Subtitle
 * Feature 3
 <br>
 
-**[<i class="fa-solid fa-up-right-from-square"></i> Discover My Project - Click Now!](PROJECT URL)**
+**[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](PROJECT URL)**
 ```
 📋 ***Listening Markdown Layout***
 ```
@@ -112,7 +112,7 @@ Subtitle
 Subtitle
 <br>
 
-[🧳 Check it out](LINK URL)
+[<i class="fa-solid fa-fire"></i> Check it out](LINK URL)
 ```
 ## Step 4: Deploy the Website
 **GitHub Pages**: You can use GitHub Pages to host your website directly from your GitHub repository. Go to the repository settings on GitHub, find the "Pages" section, and select the branch you want to deploy.
