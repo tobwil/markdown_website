@@ -7,9 +7,9 @@ Transform your screenshots into visually appealing designs effortlessly
 
 ## Top 3 Features
 
-* 🔮 **Custom & Predefined AI Backgrounds**
-* 🌈 **Color Picker**: Choose and apply your favorite colors to objects and backgrounds
-* ✍️ **Easy Text and Shadow Adding**
+* 🔮 Custom & Predefined AI Backgrounds
+* 🌈 Color Picker
+* ✍️ Easy Text and Shadow Adding
 
 <br>
 
