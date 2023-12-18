@@ -1,5 +1,5 @@
 # Error Message Expert (AI Inside)
-Help your parents solve their IT problems effortlessly
+Smoothly assist your parents with tech troubles using an AI error message analyzer
 <br>
 
 <img src="https://github.com/tobwil/markdown_website/assets/72387477/7744f78f-f926-44be-a015-ce557f332262" height="200">
