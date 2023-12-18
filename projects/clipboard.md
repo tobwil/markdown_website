@@ -7,9 +7,9 @@ Enhance your productivity by leveraging advanced clipboard functionalities.
 
 ## Top 3 Features
 
-* ⚡ **Instant Usage**
-* 🔒 **Local Storage Privacy**
-* 📋 **Extended Clipboard**
+* ⚡ Instant Usage
+* 🔒 Local Storage Privacy
+* 📋 Extended Clipboard
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/administration-deal)**
