@@ -7,9 +7,9 @@ As a dashboard enthusiast 🤓, here's a glimpse of what you can create using pr
 
 ## Top 3 Feature
 
-* 📅 **Daily/Weekly/Monthly Progress**
-* ✨ **Interactive Progress Tracking**
-* 🎄 **Set your own Countdown e.g. Christmas**
+* 📅 Daily/Weekly/Monthly Progress
+* ✨ Interactive Progress Tracking
+* 🎄 Set your own Countdown e.g. Christmas
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/stage-if)**
