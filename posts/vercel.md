@@ -2,4 +2,4 @@
 Generate UI in seconds with text or images
 <br>
 
-**[🧳 Check it out](https://v0.dev/)**
+**[<i class="fa-solid fa-fire"></i> Check it out](https://v0.dev/)**
