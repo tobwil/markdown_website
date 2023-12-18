@@ -2,14 +2,14 @@
 Enhance your productivity by leveraging advanced clipboard functionalities.
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/b96a1e39-bb98-4c30-bc96-de02d51e3149" height="100">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/1581cf8f-bf5e-4af0-8e24-c02be2623d5a" height="200">
 <br>
 
-## Key Features
+## Top 3 Features
 
-* ⚡ **Instant Paste:** Use CTRL+V to quickly multiply your clipboard contents
-* 🔒 **Local Storage Privacy:** All data remains on your device, ensuring complete privacy
-* 📋 **Extended Clipboard:** Retain copied items until you clear your browser data – no more repeated copying
+* ⚡ **Instant Usage**
+* 🔒 **Local Storage Privacy**
+* 📋 **Extended Clipboard**
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/administration-deal)**
