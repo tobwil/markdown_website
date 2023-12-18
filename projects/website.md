@@ -7,9 +7,9 @@ Showcase your projects and skills with a sleek, dynamic portfolio powered by you
 
 ## Top 3 Features
 
-* 🚀 **Dynamic Content Loading**
-* 📱 **Responsive Design**
-* 🌓 **Day/Night Mode**
+* 🚀 Dynamic Content Loading
+* 📱 Responsive Design
+* 🌓 Day/Night Mode
 <br>
 
 **[<i class="fab fa-github"></i> View GitHub Repository](https://github.com/tobwil/markdown_website)**
