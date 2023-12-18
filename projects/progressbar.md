@@ -2,16 +2,14 @@
 As a dashboard enthusiast 🤓, here's a glimpse of what you can create using progressbar.js
 <br>
 
-<img src="https://github.com/tobwil/markdown_website/assets/72387477/620e1ea9-915d-4ffd-8547-e20714030fdd" height="100">
+<img src="https://github.com/tobwil/markdown_website/assets/72387477/a5954cac-eb06-4a9a-8132-ffa9db3b6d83" height="200">
 <br>
 
-## Dashboard Highlights
+## Top 3 Feature
 
-* 📅 **Daily Progress Tracker:** View how much of the day has passed in percentage
-* 🗓️ **Weekly Progress Overview:** Track the week's progress with an intuitive display
-* 📆 **Monthly Progress Insights:** Keep an eye on the month's advancement
-* 🎄 **Countdown to Christmas:** Track the time left until Christmas Day
-* 🥂 **Yearly Progress Bar:** Monitor the percentage of the year gone by
+* 📅 **Daily/Weekly/Monthly Progress**
+* ✨ **Interactive Progress Tracking**
+* 🎄 **Set your own Countdown e.g. Christmas**
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/stage-if)**
