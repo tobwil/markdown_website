@@ -7,9 +7,9 @@ Quickly extract information from snapshots into concise summaries
 
 ## Top 3 Features
 
-* 📸 **Effortless Snapshot Analysis**
-* 🔍 **Real-Time Summarization**
-* 📱 **Mobile-Friendly Design**
+* 📸 Effortless Snapshot Analysis
+* 🔍 Real-Time Summarization
+* 📱 Mobile-Friendly Design
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/ok-appear)**
