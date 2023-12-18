@@ -1,7 +1,8 @@
 # Personal Website via GitHub Markdowns
 A Static HTML/CSS/JavaScript Website using GitHub as Database for its content
 
-**[🔗 DEMO @ PicoApps with Easy Remix Option](https://a.picoapps.xyz/window-population)**
+**[🔗 Remixable DEMO @ PicoApps](https://a.picoapps.xyz/window-population)**
+**[🔗 LIVE @ wilhelm.digital](https://wilhelm.digital/)**
 
 ## Table of Contents
 1. [Features](#features)
