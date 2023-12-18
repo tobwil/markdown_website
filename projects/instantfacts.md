@@ -5,7 +5,7 @@ Quickly extract information from snapshots into concise summaries
 <img src="https://github.com/tobwil/markdown_website/assets/72387477/fd99d0d2-703e-466c-b017-2a10d9cc7fdd" height="200">
 <br>
 
-## Key Features
+## Top 3 Features
 
 * 📸 **Effortless Snapshot Analysis**
 * 🔍 **Real-Time Summarization**
