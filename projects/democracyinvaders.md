@@ -7,9 +7,9 @@ Enjoy a classic arcade-style space shooter with a modern twist!
 
 ## Top 3 Feature
 
-* 🚀 **Classic Gameplay**
-* ⏲️ **Highscore Tracking**
-* 🎨 **Custom Artwork**
+* 🚀 Classic Gameplay
+* ⏲️ Highscore Tracking
+* 🎨 Custom Artwork
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/may-miss)**
