@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.3/dist/tailwind.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous">
+  <title>Tobias Wilhelm</title>
+  <style>
+.markdown-container img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.markdown-container h2 {
+  font-weight: bold;
+}
+
+.markdown-container ul {
+  list-style-type: disc;
+  padding-left: 1.25rem;
+}
+
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+  </style>
+</head>
+<body class="bg-white relative">
+<style>
+/* Add necessary dark mode styles for the footer */
+.dark-mode .bg-white.p-4.rounded.shadow-md.transition-colors.duration-200.hover\:bg-gray-100:hover {
+  background-color: #333333;
+}
+.dark-mode {
+  background-color: #1a1a1a;
+}
+.dark-mode footer,
+.dark-mode footer .text-gray-600 {
+  color: #f8f8f8;
+}
+    .dark-mode .text-white,
+    .dark-mode .text-black,
+    .dark-mode .text-gray-900,
+    .dark-mode h1,
+    .dark-mode h2,
+    .dark-mode h3,
+    .dark-mode h4,
+    .dark-mode .bg-white .card-content,
+    .dark-mode .bg-white div {
+      color: #f8f8f8;
+    }
+    .dark-mode .bg-white {
+      background-color: #1a1a1a;
+    }
+    .dark-mode .shadow-md {
+      box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1), 0 1px 3px rgba(255, 255, 255, 0.06);
+    }
+  </style>
+  <div id="particles-js"></div>
+<nav class="p-4 flex flex-wrap items-center justify-between w-full px-2 md:px-4">
+    <div>
+      <span class="text-black font-bold">wilhelm.digital</span><span class="text-black"></span>
+    </div>
+    <button id="dark-mode-toggle" class="ml-4 p-2  text-black rounded shadow-md">🌓</button>
+  </nav>
+  <div class="flex flex-col items-center justify-center min-h-screen">
+    <div id="header-container" class="px-4 py-5 mt-8 space-x-4">
+      <h1 class="text-8xl font-bold mb-10">Tobias Wilhelm</h1>
+      <h2 class="text-xl mb-3">Empathic Team Manager by Day, Innovating with AI and NoCode at Night
+        <br><b>Merging Productivity and Creativity</b></h2>
+      <br>
+      <div class="flex space-x-4">
+        <a href="https://www.linkedin.com/in/tobiaswilhelm" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-linkedin"></i></a>
+        <a href="https://twitter.com/tobias_digital" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-x-twitter"></i></a>
+        <a href="https://www.reddit.com/user/tobias_digital" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-reddit"></i></a>
+        <a href="https://github.com/tobwil" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fab fa-github"></i></a>
+        <a href="mailto:tobias@wilhelm.digital" target="_blank" class="text-xl text-black hover:text-pink-600 transition-colors duration-200 ease-in-out"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+  <div id="content-container" class="flex flex-col md:flex-row w-full flex-wrap mt-6 mb-20 mx-1 md:mx-0">
+    <div id="posts-container" class="w-full md:w-1/3 px-4 py-5 mb-5 md:mb-0">
+      <h3 class="text-2xl font-semibold mb-4"><i class="fa-solid fa-magnifying-glass"></i> Digital Endeavors</h3>
+      <h4 class="text-sm italic mb-4">A collection of thoughts and findings</h4>
+      <div id="posts-list" class="space-y-4">
+        <!-- Fetched Posts Markdown files will be displayed here -->
+      </div>
+    </div>
+    <div id="projects-container" class="w-full md:w-2/3 px-4 py-5 mb-5 md:mb-0">
+      <h3 class="text-2xl font-semibold mb-4"><i class="fa-solid fa-code"></i> Projects</h3>
+      <h4 class="text-sm italic mb-4">Discover what I do in my spare time</h4>
+      <div id="projects-list" class="grid grid-cols-1 md:grid-cols-2 gap-4 flex-wrap">
+        <!-- Fetched Projects Markdown files will be displayed here -->
+      </div>
+    </div>
+  </div>
+    <script>
+      document.getElementById("dark-mode-toggle").addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+  
+        const toggleBtn = document.getElementById("dark-mode-toggle");
+        const isDarkModeOn = document.body.classList.contains("dark-mode");
+  
+        toggleBtn.innerText = isDarkModeOn ? "☀️" : "🌓";
+      });
+    </script>
+    <div id="listening-container" class="w-full px-4 py-5">
+      <h3 class="text-2xl font-semibold mb-4"><i class="fab fa-spotify"></i> What's on my Playlist</h3>
+      <div id="listening-list" class="flex flex-wrap mx-auto md:-mx-2 md:space-x-4">
+        <!-- Fetched Listening Markdown files will be displayed here -->
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+  <script>
+      const postsList = document.getElementById('posts-list');
+    const projectsList = document.getElementById('projects-list');
+    const converter = new showdown.Converter({
+      simpleLineBreaks: true,
+      strikethrough: true,
+      tables: true,
+    });
+    const baseUrl = "https://api.github.com/repos/tobwil/markdown_website/contents/";
+    const folders = ['posts', 'projects', 'listening'];
+
+    async function fetchMarkdownFiles(folder) {
+      const response = await fetch(`${baseUrl}${folder}`);
+      const files = await response.json();
+      function shuffleArray(array) {
+          for (let i = array.length - 1; i > 0; i--) {
+              const j = Math.floor(Math.random() * (i + 1));
+              [array[i], array[j]] = [array[j], array[i]];
+          }
+          return array;
+      }
+
+      const randomFiles = shuffleArray(files);
+      const maxVisibleItems = folder === 'posts' ? 3 : folder === 'projects' ? 5 : Infinity;
+      let itemCount = 0;
+
+      for (const file of randomFiles) {
+        if (file.name.endsWith('.md')) {
+          const fileRes = await fetch(file.download_url);
+          const mdContent = await fileRes.text();
+          const mdWithLineBreaks = mdContent.replace(/\n/g, '  \n');
+          const htmlContent = converter.makeHtml(mdWithLineBreaks);
+
+          const title = mdContent.split('\n')[0].replace(/^#+\s*/, '');
+          const contentWithoutTitle = mdContent.replace(/^.+\n/, '');
+          const htmlContentWithoutTitle = converter.makeHtml(contentWithoutTitle);
+          const fileCard = `
+              <div class="markdown-container bg-white p-4 rounded shadow-md transition-colors duration-200 hover:bg-gray-100 w-200 h-200 overflow-auto flex-none mx-2 my-2">
+                <h2 class="text-xl font-semibold mb-2">${title}</h2>
+                <div>${htmlContentWithoutTitle}</div>
+              </div>
+          `;
+
+          if (itemCount < maxVisibleItems) {
+            if (folder === 'posts') {
+              postsList.innerHTML += fileCard;
+            } else if (folder === 'projects') {
+              projectsList.innerHTML += fileCard;
+            } else if (folder === 'listening') {
+              document.getElementById('listening-list').innerHTML += fileCard;
+            }
+          } else {
+            if (folder !== 'listening') {
+              const hiddenCard = `<div class='hidden'>${fileCard}</div>`;
+              if (folder === 'posts') {
+                postsList.innerHTML += hiddenCard;
+              } else if (folder === 'projects') {
+                projectsList.innerHTML += hiddenCard;
+              }
+            }
+          }
+          itemCount++;
+        }
+      }
+
+    if (folder !== 'listening' && itemCount > maxVisibleItems) {
+      const container = folder === 'posts' ? postsList : projectsList;
+      createShowMoreButton(container);
+    }
+  }
+
+        const createShowMoreButton = (container) => {
+        const button = document.createElement('button');
+        button.innerHTML = '➕ Show More';
+        button.classList.add('show-more');
+        button.style.color = 'gray'; // Set the text color to gray
+        button.style.marginTop = '10px'; // Add some margin on top
+        container.after(button);
+
+        button.addEventListener('click', () => {
+            const hiddenItems = container.querySelectorAll('.hidden');
+            hiddenItems.forEach(item => item.classList.remove('hidden'));
+            button.remove();
+        });
+    };
+
+    folders.forEach(folder => {
+        fetchMarkdownFiles(folder);
+    });
+  </script>
+  <script>
+    particlesJS('particles-js', {
+      particles: {
+        number: {
+          value: 80,
+          density: {
+            enable: true,
+            value_area: 800
+          }
+        },
+        color: {
+          value: '#888888'
+        },
+        shape: {
+          type: 'circle',
+          stroke: {
+            width: 0,
+            color: '#000000'
+          },
+          polygon: {
+            nb_sides: 5
+          }
+        },
+        opacity: {
+          value: 0.5,
+          random: true,
+          anim: {
+            enable: false,
+            speed: 1,
+            opacity_min: 0.1,
+            sync: false
+          }
+        },
+        size: {
+          value: 3,
+          random: true,
+          anim: {
+            enable: false,
+            speed: 40,
+            size_min: 0.1,
+            sync: false
+          }
+        },
+        line_linked: {
+          enable: true,
+          distance: 150,
+          color: '#888888',
+          opacity: 0.4,
+          width: 1
+        },
+        move: {
+          enable: true,
+          speed: 6,
+          direction: 'none',
+          random: false,
+          straight: false,
+          out_mode: 'out',
+          bounce: false,
+          attract: {
+            enable: false,
+            rotateX: 600,
+            rotateY: 1200
+          }
+        }
+      },
+      interactivity: {
+        detect_on: 'canvas',
+        events: {
+          onhover: {
+            enable: true,
+            mode: 'repulse'
+          },
+          onclick: {
+            enable: false
+          },
+          resize: true
+        },
+        modes: {
+          grab: {
+            distance: 400,
+            line_linked: {
+              opacity: 1
+            }
+          },
+          bubble: {
+            distance: 400,
+            size: 40,
+            duration: 2,
+            opacity: 8,
+            speed: 3
+          },
+          repulse: {
+            distance: 200,
+            duration: 0.4
+          },
+          push: {
+            particles_nb: 4
+          },
+          remove: {
+            particles_nb: 2
+          }
+        }
+      },
+      retina_detect: true
+    });
+  </script>
+  <script src="https://unpkg.com/elevator.js"></script>
+  <script>
+    const elevator = new Elevator({
+      mainAudio: "https://raw.githubusercontent.com/tholman/elevator.js/master/demo/music/elevator.mp3",
+      endAudio: "https://raw.githubusercontent.com/tholman/elevator.js/master/demo/music/ding.mp3",
+      duration: 5000,
+    });
+
+const footer = document.createElement("footer");
+footer.className = "mt-8 mb-4";
+const footerContent = document.createElement("div");
+footerContent.className = "flex items-center justify-between";
+footer.appendChild(footerContent);
+
+const copyright = document.createElement("div");
+copyright.className = "hidden md:flex";
+copyright.innerHTML = '&nbsp;&nbsp;&copy; ' + (new Date().getFullYear()) + ' Tobias Wilhelm';
+footerContent.appendChild(copyright);
+
+const madeWith = document.createElement("div");
+madeWith.className = "hidden md:flex";
+madeWith.innerHTML = 'Imagined by Me - Realized with AI 🧠';
+footerContent.appendChild(madeWith);
+
+const elevatorBtnDiv = document.createElement("div");
+elevatorBtnDiv.innerHTML = 'You need an elevator ride?&nbsp;&nbsp;<i class="fas fa-elevator"></i>&nbsp;&nbsp;';
+elevatorBtnDiv.className = "text-center flex justify-center items-center cursor-pointer mt-4";
+elevatorBtnDiv.onclick = () => {
+  elevator.elevate();
+};
+
+footerContent.appendChild(elevatorBtnDiv);
+document.body.appendChild(footer);
+  </script>
+    <style>
+      @keyframes pulsate {
+        0% {
+          transform: scale(1);
+          opacity: 0.7;
+        }
+        50% {
+          transform: scale(1.2);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(1);
+          opacity: 0.7;
+        }
+      }
+      #scroll-down-btn i {
+        animation: pulsate 1.5s linear infinite;
+      }
+    </style>
+    <button id="scroll-down-btn" class="fixed bottom-4 left-1/2 text-black p-2 rounded shadow-md opacity-80 transition-colors duration-200 ease-in-out dark:bg-gray-800 dark:text-white">
+      <i class="fa-solid fa-v"></i>
+    </button>
+    <script>
+      const scrollDownBtn = document.getElementById('scroll-down-btn');
+      const headerContainer = document.getElementById('header-container');
+
+      const toggleScrollButtonVisibility = () => {
+        if (window.pageYOffset === 0) {
+          scrollDownBtn.style.display = 'flex';
+        } else {
+          scrollDownBtn.style.display = 'none';
+        }
+      }
+
+      scrollDownBtn.addEventListener('click', () => {
+        const yOffset = headerContainer.getBoundingClientRect().bottom + window.pageYOffset;
+        window.scrollTo({top: yOffset, behavior: 'smooth'});
+      });
+
+      window.addEventListener('scroll', toggleScrollButtonVisibility);
+      toggleScrollButtonVisibility();
+    </script>
+</body>
+</html>
